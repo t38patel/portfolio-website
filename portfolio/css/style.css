@@ -495,15 +495,15 @@ button{
     margin: 0 15px 15px 0;
 }
 .home-img .img-box{
-    max-width: 360px;
+    max-width: 460px;
     background-color: var(--white-alpha-25);
-    border-radius: 50%;
+    border-radius: 10%;
     border: 8px solid var(--white-alpha-25);
     margin: auto;
 }
 .home-img .img-box img {
     width: 100%;
-    border-radius: 50%;
+    border-radius: 10%;
 }
 
 /* ------------------------------------------------------------ HOME SECTION END */
